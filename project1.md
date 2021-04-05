@@ -3,9 +3,9 @@
 Project 1 Title
 ===============
 
--   **Class:** 
--   **Grade:**
--   **Language(s):**
+-   **Class: CSCI 301 ** 
+-   **Grade: Idk yet**
+-   **Language(s):Python**
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 
