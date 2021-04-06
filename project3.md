@@ -11,7 +11,7 @@ Project 3 Title
 
 Create creature using design guidelines then come up with a background and theme to place your creature into using all available tools in illustrator.
 
-![Graphic](images/Creature Graphic.png)
+![Graphic](images/cg.png)
 Fig 1. The launch screen
 
 
