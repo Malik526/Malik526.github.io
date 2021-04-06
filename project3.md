@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-Project 3 Title
+Creature Project
 ===============
 
 -   **Class: Visual Basic** 
