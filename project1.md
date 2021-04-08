@@ -18,6 +18,7 @@ bash
 ```compile```
 Compile: chmod +x RightTriangle.py
 Run: ./RightTriangle.py
+Just run "Run" in IDLE
 
 
 ```bash
@@ -28,7 +29,7 @@ python setup.py
 ## UI Design
 The user is able type in the lengths of the triangle directly into the program or the program can be tweaked to prompt the user to type in the lengths for sideA and sideB when the prgram runs.
 
-![screenshot](images/dummy_thumbnail.jpg)
+![screenshot](images/screenshot_output)
 Fig 1. The launch screen
 
 ![screenshot](images/dummy_thumbnail.jpg)
