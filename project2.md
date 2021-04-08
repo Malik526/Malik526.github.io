@@ -26,7 +26,7 @@ python setup.py
 
 The UI design consist of a black background with gray walls and colored Tetris blocks.
 
-![screenshot](images/dummy_thumbnail.jpg)
+![screenshot](images/Tetris_Screenshot.png)
 Fig 1. The launch screen
 
-![screenshot](images/dummy_thumbnail.jpg)
+![screenshot]()
