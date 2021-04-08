@@ -1,21 +1,24 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+Project 1 RightTriangle
 ===============
 
 -   **Class: CSCI 301 ** 
--   **Grade: Idk yet**
+-   **Grade: A**
 -   **Language(s):Python**
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Create a right triangle and create funtions to get the side lengths , hypoteneuse and surface area. 
 
 ## How to compiles / run the program
 
-How to compile (if applicable) and run the project.
+bash
+```compile```
+Compile: chmod +x RightTriangle.py
+Run: ./RightTriangle.py
+
 
 ```bash
 cd ./project
@@ -23,8 +26,7 @@ python setup.py
 ```
 
 ## UI Design
-
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+The user is able type in the lengths of the triangle directly into the program or the program can be tweaked to prompt the user to type in the lengths for sideA and sideB when the prgram runs.
 
 ![screenshot](images/dummy_thumbnail.jpg)
 Fig 1. The launch screen
