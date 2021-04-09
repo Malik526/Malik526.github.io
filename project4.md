@@ -1,13 +1,13 @@
-[Back to Portfolio](./)
+[Back to Portfolio](./index.md)
 
 Project 4 Binary Search Tree
 ===============
 
 -   **Class: CSCI 315 Data Structures ** 
--   **Grade: A**
--   **Language(s):Python**
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+-   **Grade: B**
+-   **Language(s):C++**
+-   **Source Code Repository:** [Source Code](https://github.com/Malik526/SearchTree_SrcCode.git)  
+    (Please [email me](mailto:mmstewart@csustudent.net) to request access.)
 
 ## Project description
 Pick two balanced binary search tree implementations (AVL, Red-Black, ScapeGoat, 2-3, AA,
@@ -49,3 +49,6 @@ This program utilizes creating a search tree in main and running the functions f
 Fig 1. The launch screen
 
 ![screenshot](images/Screenshot_output.png)
+
+Back to Portfolio](./index.md)
+
