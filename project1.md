@@ -1,4 +1,4 @@
-[Back to Portfolio](index.md./)
+[Back to Portfolio](./index.md)
 
 Project 1 RightTriangle
 ===============
