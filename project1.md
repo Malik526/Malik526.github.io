@@ -29,19 +29,11 @@ python setup.py
 ## UI Design
 The user is able type in the lengths of the triangle directly into the program or the program can be tweaked to prompt the user to type in the lengths for sideA and sideB when the prgram runs.
 
-![screenshot](images/Screenshot_output.png)
+![screenshot](images/launch.png)
 Fig 1. The launch screen
 
 ![screenshot](images/Screenshot_output.png)
 Fig 2. Example output after input is processed.
 
-![screenshot](images/dummy_thumbnail.jpg)
-Fig 3. Feedback when an error occurs.
-
-## 3. Additional Considerations
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 [Back to Portfolio](./index.md)
