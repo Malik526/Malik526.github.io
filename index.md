@@ -1,7 +1,7 @@
 Portfolio
 =========
 
-Programming Projects
+Programming And Graphic Projects
 --------------------
 
 *For access to my private project repositories, please [email me](mailto:mmstewart@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
@@ -12,17 +12,17 @@ Programming Projects
 ![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Balanced Binary Search Tree | CSCI 315](project1)
+### [Tetris | CSCI 325](project2)
 
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Tetris| CSCI 325](project1)
+### [Creature Project| visual Basic](project3)
 
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [P 4| CSCI 332](project1)
+### [Binary Search Tree| CSCI 315](project4)
 
 ![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
 
