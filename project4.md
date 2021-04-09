@@ -45,10 +45,10 @@ Run "make" in terminal while in the correct directrory
 ## UI Design
 This program utilizes creating a search tree in main and running the functions from binarytree.cpp
 
-![screenshot](images/Screenshot_output.png)
+![screenshot](images/Input.png)
 Fig 1. The launch screen
 
-![screenshot](images/Screenshot_output.png)
+![screenshot](images/Output.png)
 
 [Back to Portfolio](./index.md)
 
