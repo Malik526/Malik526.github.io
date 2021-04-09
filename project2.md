@@ -1,12 +1,12 @@
-[Back to Portfolio](./)
+[Back to Portfolio](./index.md)
 
-Project 2 Title
+Project 2 Tetris
 ===============
 
 -   **Class: CSCI 315 Object Oriented** 
 -   **Grade: 89**
 -   **Language(s):Java**
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Source Code Repository:** [Source Code](https://github.com/Malik526/Tetris-SrcCode.git)  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
@@ -28,4 +28,6 @@ The UI design consist of a black background with gray walls and colored Tetris b
 
 ![screenshot](images/Tetris_Screenshot.png)
 Fig 1. The launch screen
+
+[Back to Portfolio](./index.md)
 
