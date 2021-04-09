@@ -41,7 +41,7 @@ Ethics Papers
 -   **Class: Data Structures** 
 -   **Grade: A **
 
-### [Scripting Ethic Paper Paper 3](/pdf/Session_Ethic_Paper.pdf)
+### [Scripting Ethic Paper Paper ](/pdf/Session_Ethic_Paper.pdf)
 
 -   **Class: Scripting** 
 -   **Grade: A **
