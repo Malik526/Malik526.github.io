@@ -29,10 +29,10 @@ python setup.py
 ## UI Design
 The user is able type in the lengths of the triangle directly into the program or the program can be tweaked to prompt the user to type in the lengths for sideA and sideB when the prgram runs.
 
-![screenshot](images/screenshot_output.png)
+![screenshot](images/Screenshot_output.png)
 Fig 1. The launch screen
 
-![screenshot](images/screenshot_output.png)
+![screenshot](images/)
 Fig 2. Example output after input is processed.
 
 ![screenshot](images/dummy_thumbnail.jpg)
