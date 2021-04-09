@@ -9,42 +9,42 @@ Programming And Graphic Projects
 ---
 ### [RightTraingle | CSCI 301](project1)
 
-![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 1 Thumbnail Name](images/launch.png)
 
 ---
 ### [Tetris | CSCI 325](project2)
 
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 2 Thumbnail Name](images/Tetris_Screenshot.png)
 
 ---
 ### [Creature Project| visual Basic](project3)
 
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 3 Thumbnail Name](images/cg.png)
 
 ---
 ### [Binary Search Tree| CSCI 315](project4)
 
-![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 4 Thumbnail Name](images/input.png)
 
 ---
 
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [Applied Networking's Ethic Paper](/pdf/Lin_Ethics_Paper.pdf)
 
--   **Class:**  
--   **Grade:**
+-   **Class: Applied Networking**  
+-   **Grade: B **
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
+### [Data Structures Ethic Paper](/pdf/West_Ethics_Paper.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class: Data Structures** 
+-   **Grade: A **
 
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
+### [Scripting Ethic Paper Paper 3](/pdf/sample_presentation.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class: Scripting** 
+-   **Grade: A **
 
 ---
 
