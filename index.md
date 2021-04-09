@@ -36,9 +36,9 @@ Ethics Papers
 -   **Class: Applied Networking**  
 -   **Grade: B **
 
-### [Applied Networking's Ethic Paper](/pdf/West_Ethics_Paper.pdf)
+### [Data Structures Ethic Paper](/pdf/West_Ethics_Paper.pdf)
 
--   **Class: Applied Networking**  
+-   **Class: Data Structure**  
 -   **Grade: A **
 
 ### [Scripting Ethic Paper Paper ](/pdf/Session_Ethic_Paper.pdf)
