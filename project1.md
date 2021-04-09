@@ -6,7 +6,7 @@ Project 1 RightTriangle
 -   **Class: CSCI 301 ** 
 -   **Grade: A**
 -   **Language(s):Python**
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Source Code Repository:** [features/mastering-markdown](https://github.com/Malik526/RightTriangle_SrcCode.git)  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
