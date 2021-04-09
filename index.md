@@ -7,7 +7,7 @@ Programming And Graphic Projects
 *For access to my private project repositories, please [email me](mailto:mmstewart@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [lab03 | CSCI 301](project1)
+### [RightTraingle | CSCI 301](project1)
 
 ![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
 
