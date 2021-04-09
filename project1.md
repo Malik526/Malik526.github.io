@@ -32,7 +32,7 @@ The user is able type in the lengths of the triangle directly into the program o
 ![screenshot](images/Screenshot_output.png)
 Fig 1. The launch screen
 
-![screenshot](images/)
+![screenshot](images/Screenshot_output.png)
 Fig 2. Example output after input is processed.
 
 ![screenshot](images/dummy_thumbnail.jpg)
