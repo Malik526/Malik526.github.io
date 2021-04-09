@@ -49,6 +49,6 @@ This program utilizes creating a search tree in main and running the functions f
 Fig 1. The launch screen
 
 ![screenshot](images/Output.png)
-
+Fig 2. Output
 [Back to Portfolio](./index.md)
 
