@@ -7,24 +7,24 @@ Programming And Graphic Projects
 *For access to my private project repositories, please [email me](mailto:mmstewart@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [RightTraingle | CSCI 301](project1)
+### [RightTraingle | Scripting CSCI 301](./project1.md)
 
 ![Project 1 Thumbnail Name](images/launch.png)
 
 ---
-### [Tetris | CSCI 325](project2)
+### [Tetris | Java CSCI 325](./project2.md)
 
 ![Project 2 Thumbnail Name](images/Tetris_Screenshot.png)
 
 ---
-### [Creature Project| visual Basic](project3)
+### [Creature Project| Visual Basic](./project3.md)
 
 ![Project 3 Thumbnail Name](images/cg.png)
 
 ---
-### [Binary Search Tree| CSCI 315](project4)
+### [Binary Search Tree| Data Structures CSCI 315](./project4.md)
 
-![Project 4 Thumbnail Name](images/input.png)
+![Project 4 Thumbnail Name](images/Tree.png)
 
 ---
 
