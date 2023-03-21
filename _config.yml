@@ -7,8 +7,11 @@ description: > # your text below (remove <br /> elements if you don't need line 
   In partial fulfillment of the requirements for the degree of
   Applied Computing: Business Concentration (class of 2024)
   <br /><br> 
-  [View My Resume](/pdf/Malik's_resume.pdf)
+  <a href="https://docs.google.com/document/d/1JHMy_LQQhmCnSa_dNt0a1wqlkix1LDwpPdorp2IAUzc/edit?usp=sharing">View My Resume</a>
   <br /><br />
+  <a href="https://www.linkedin.com/in/malik-stewart-abb2a1121/">View My LinkedIn Profile</a>
+  <br /><br> 
+  <a href="https://app.joinhandshake.com/stu/users/28842461">View My Handshake Profile</a>
 repository: "Malik526/Malik526.github.io"
 github_username:  Malik526 # update with your username
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
