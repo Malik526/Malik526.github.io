@@ -13,7 +13,7 @@ Project 4 Binary Search Tree
 (1) Pick two balanced binary search tree implementations (AVL, Red-Black, ScapeGoat, 2-3, AA,
 Splay, Treap, etc) and implement my interface.
 (2) Next, research what situations each perform better or worse in. Namely:
-The situation one exhibits better performance. Sho that is the case.
+The situation one exhibits better performance. Show that is the case.
 (3) Then generate test cases and show one performing better than the other. Generate a performance graph.
 ## How to compiles / run the program
 
