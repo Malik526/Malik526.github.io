@@ -43,7 +43,7 @@ Run "make" in terminal while in the correct directrory
 
 
 ## UI Design
-This program utilizes creating a search tree in main and running the functions from binarytree.cpp
+In this program the user will have to create a search tree and in main and enter an integer into the function andd run the functions from bianrytree.cpp in main.
 
 ![screenshot](images/Input.png)
 Fig 1. The launch screen
