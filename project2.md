@@ -24,7 +24,7 @@ python setup.py
 
 ## UI Design
 
-The UI design consist of a black background with gray walls and colored Tetris blocks.
+The UI design consist of using the arrow keys and spacebar on their keybaord to move and rotate the falling blocks and try to get thenm into place. The graphical design features a black backgorund and grey block borders for contrast so the user can easily see how much space they have to manuever the falling blocks. The blocks are also bright and and colorful in contrast with the black backgroundd so users can easily iddentify the blocks they are interacting with. 
 
 ![screenshot](images/Tetris_Screenshot.png)
 Fig 1. The launch screen
