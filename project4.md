@@ -43,8 +43,7 @@ Run "make" in terminal while in the correct directrory
 
 
 ## UI Design
-In this program the user will have to create a search tree and in main and enter an integer into the function andd run the functions from bianrytree.cpp in main.
-
+In this program the user will have to create a search tree in main by typing "SGTREE<INT> TreeName" and they use this newly created tree to run varius functions that are defined in "binarytree.cpp" in main. For example, the user can type "TreeName.insertSGT(*anyINT*)" in order to insert any inteeger into the binary tree. They can also type "TreeName.preorder" to use the preorder traversal method on the binary tree. 
 ![screenshot](images/Input.png)
 Fig 1. The launch screen
 
