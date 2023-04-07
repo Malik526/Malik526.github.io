@@ -52,7 +52,21 @@ Ethics Papers
 -   **Grade: A **
 
 ---
+Presentations
+-------------
 
+### [Presentation 1 Vulnerabilities in Social Media](/pdf/sample_presentation.pdf)
+
+- **Class: Cyber Security** 
+- **Grade: A**
+
+
+### [Presentation 2 Project Managment](/pdf/sample_presentation.pdf)
+
+- **Class: User Interface Programming ** 
+- **Grade: 90**
+
+---
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/csu-cs/csci-portfolio">CSU-CS</a></p>
 <!-- Remove above link if you don't want to attributive -->
