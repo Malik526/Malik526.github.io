@@ -61,7 +61,7 @@ Presentations
 -   **Class: Cyber Security** 
 -   **Grade: A**
 
-### [Presentation 2: Project Managment](/pdf/sample_presentation.pdf)
+### [Presentation 2: Project Managment](/pdf/Phase_2_Mockup.pdf)
 
 -   **Class: User Interface Programming** 
 -   **Grade: 90**
