@@ -7,7 +7,7 @@ Project 2 Tetris
 -   **Grade: 89**
 -   **Language(s):Java**
 -   **Source Code Repository:** [Source Code](https://github.com/Malik526/Tetris-SrcCode.git)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+    (Please [email me](mailto:mmstewart@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
