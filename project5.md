@@ -26,7 +26,7 @@ rails server
 The UI design consit of 4 webpages that makes up this web app. The 4 webv pages are "Home", "Help", "Login", "Sign Up", and "Contact Us". Each wweb page has a header and a footer that features links for navigation to each web page on the site. When the user loadds the website they are greeted on the home page and confrontedd with a call to action button that says "Sign up now!" indicating for the user to sign up on the site. 
 
 ![screenshot](images/home_page_sampleApp.png)
-Fig 1. The launch screen
+Fig 1. The Home Page
 
 [Back to Portfolio](./index.md)
 
