@@ -52,19 +52,19 @@ Ethics Papers
 -   **Grade: A**
 
 ---
+
 Presentations
 -------------
 
 ### [Presentation 1 Vulnerabilities in Social Media](/pdf/cyber_presentation.pdf)
 
-- **Class: Cyber Security** 
-- **Grade: A**
-
+-   **Class: Cyber Security** 
+-   **Grade: A**
 
 ### [Presentation 2 Project Managment](/pdf/sample_presentation.pdf)
 
-- **Class: User Interface Programming** 
-- **Grade: 90**
+-   **Class: User Interface Programming** 
+-   **Grade: 90**
 
 ---
 
