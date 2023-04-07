@@ -7,7 +7,7 @@ Project 4 Binary Search Tree
 -   **Grade: B**
 -   **Language(s):C++**
 -   **Source Code Repository:** [Source Code](https://github.com/Malik526/SearchTree_SrcCode.git)  
-    (Please [email me](mailto:mmstewart@csustudent.net) to request access.)
+    (Please [email me](mailto:mmstewart@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 (1) Pick two balanced binary search tree implementations (AVL, Red-Black, ScapeGoat, 2-3, AA,
