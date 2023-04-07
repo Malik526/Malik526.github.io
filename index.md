@@ -29,7 +29,7 @@ Programming And Graphic Projects
 ---
 ### [Sample App| User Interface Programming CSCI 334](./project5.md)
 
-![Project 5 Thumbnail Name](images/home_page_sampleApp)
+![Project 5 Thumbnail Name](images/home_page_sampleApp.png)
 
 ---
 
