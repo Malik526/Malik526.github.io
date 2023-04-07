@@ -7,7 +7,7 @@ Project 1 RightTriangle
 -   **Grade: A**
 -   **Language(s):Python**
 -   **Source Code Repository:** [Source Code](https://github.com/Malik526/RightTriangle_SrcCode.git)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+    (Please [email me](mailto:mmstewart@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 Create a right triangle and create funtions to get the side lengths , hypoteneuse and surface area. 
