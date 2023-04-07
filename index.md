@@ -14,7 +14,7 @@ Programming And Graphic Projects
 ---
 ### [Tetris | Java CSCI 325](./project2.md)
 
-![Project 2 Thumbnail Name](images/Tetris_Screenshot.png)
+![Project 2 Thumbnail Name](images/Tetris_Screenshot_crop.png)
 
 ---
 ### [Creature Project| Visual Basic](./project3.md)
