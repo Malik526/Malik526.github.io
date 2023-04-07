@@ -16,11 +16,12 @@ The goal of the Ruby on Rails sample application tutorial is to teach beginners 
 
 ## How to compiles / run the program
 
-In order to run the app you have to open up the AWS Cloud 9 IDE. Move into the "sample_app" directory and run "rails server" in order to run the server. After that you can preview the web app in the browser. 
+In order to run the app you have to open up the AWS Cloud 9 IDE. Move into the "sample_app" directory and run "rails server" in order to run the server. After that you can preview the web app in the browser. You can also test for errors in the program by run ning "rails test".  
 
 ```envionment
 cd sample_app
-rails server 
+rails server **runs server for web app\
+rails test **test program for errors
 ```
 
 ## UI Design
