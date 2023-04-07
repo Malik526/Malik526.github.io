@@ -55,7 +55,7 @@ Ethics Papers
 Presentations
 -------------
 
-### [Presentation 1 Vulnerabilities in Social Media](/pdf/The Presentation 1 Title Page_ Vulnerabilities in Social Media.pdf)
+### [Presentation 1 Vulnerabilities in Social Media](/pdf/cyber_presentation.pdf)
 
 - **Class: Cyber Security** 
 - **Grade: A**
