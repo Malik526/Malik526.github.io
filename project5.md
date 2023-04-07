@@ -5,7 +5,7 @@ Project 5 SampleApp
 
 -   **Class: CSCI 334 User Interface Programming** 
 -   **Grade: To Be Graded**
--   **Language(s):Ruby on Rails**
+-   **Language(s): Ruby on Rails**
 -   **Source Code Repository:** [Source Code](https://github.com/Malik526/sample_app.git) (Please [email me](mailto:mmstewart@csustudent.net?subject=GitHub%20Access) to request access.)
 -   **Website Link:** [Sample App](https://salty-headland-27919.herokuapp.com/)
     
