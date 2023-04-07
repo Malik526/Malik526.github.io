@@ -20,8 +20,8 @@ In order to run the app you have to open up the AWS Cloud 9 IDE. Move into the "
 
 ```envionment
 cd sample_app
-rails server **runs server for web app\
-rails test **test program for errors
+rails server #runs server for web app\
+rails test #test program for errors
 ```
 
 ## UI Design
