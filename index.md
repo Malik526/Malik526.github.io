@@ -39,17 +39,17 @@ Ethics Papers
 ### [Applied Networking's Ethic Paper](/pdf/Lin_Ethics_Paper.pdf)
 
 -   **Class: Applied Networking**  
--   **Grade: B **
+-   **Grade: B**
 
 ### [Data Structures Ethic Paper](/pdf/West_Ethics_Paper.pdf)
 
 -   **Class: Data Structure**  
--   **Grade: A **
+-   **Grade: A**
 
 ### [Scripting Ethic Paper Paper ](/pdf/Session_Ethic_Paper.pdf)
 
 -   **Class: Scripting** 
--   **Grade: A **
+-   **Grade: A**
 
 ---
 Presentations
@@ -63,7 +63,7 @@ Presentations
 
 ### [Presentation 2 Project Managment](/pdf/sample_presentation.pdf)
 
-- **Class: User Interface Programming ** 
+- **Class: User Interface Programming** 
 - **Grade: 90**
 
 ---
